@@ -1,0 +1,4 @@
+github.com/go-chi/chi v4.0.2+incompatible h1:maB6vn6FqCxrpz4FqWdh4+lwpyZIQS7YEAUcHlgXVRs=
+github.com/go-chi/chi v4.0.2+incompatible/go.mod h1:eB3wogJHnLi3x/kFX2A+IbTBlXxmMeXJVKy9tTv1XzQ=
+github.com/nicklaw5/go-respond v0.0.0-20181019234323-81e2b0dd5bb6 h1:GVcigLwU5weuOc2ddq6yCjfJ4MX1Rv+R+Txh4MPY20E=
+github.com/nicklaw5/go-respond v0.0.0-20181019234323-81e2b0dd5bb6/go.mod h1:VoIe3N+7d/nBCnc0Pzv5ty0k5S755kcwK1RBNF4UJ/g=
